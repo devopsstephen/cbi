@@ -1,3 +1,4 @@
 version: v1.1
 metadata : v1.2
 lable: pod
+spec: image
